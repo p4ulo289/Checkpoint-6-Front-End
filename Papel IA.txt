@@ -1,0 +1,52 @@
+1)
+Problema: O script.js usa um IntersectionObserver para fazer os blocos aparecerem
+ao rolar a página. Eu nunca vi isso em aula e não consegui entender o
+que cada parte do código faz.
+
+poderompts: não entendi o script.js, o que é esse IntersectionObserver? pode explicar o que cada parte faz de um jeito simples? a gente só viu funções e document.querySelector em aula
+
+Resultado: Resolveu totalmente. A IA explicou linha por linha: o querySelectorAll
+pega os elementos, o forEach esconde todos no começo, e o observer
+adiciona a classe "visivel" quando o elemento entra na tela
+
+Aprendizado:
+No prompt inicial eu deveria ter dito quais conceitos eu já conheço e pedido para não usar nada além
+disso, ou para explicar tudo que fosse novo
+
+2)Problema:
+Subi os três arquivos no GitHub, mas o link do site não funcionou. Eu
+não sabia que precisava ativar o GitHub Pages.
+
+Prompt: subi os arquivos no github mas como faço pra virar um link que eu
+consiga mandar pro professor?
+
+Resultado: Resolveu em parte. A IA explicou o caminho (Settings > Pages > escolher
+a branch main), mas o site ainda deu erro 404 nos primeiros minutos.
+Funcionou depois de esperar o deploy terminar
+
+Aprendizado: Eu devia ter avisado no prompt inicial que o trabalho exige deploy e
+pedido o passo a passo junto com o código. Também aprendi que o
+GitHub Pages leva alguns minutos para publicar
+
+//-------------------------------
+
+Referência 1: Brittany Chiang (brittanychiang.com)
+O que aproveitei: a estrutura de portfólio em uma página só, com as
+seções Sobre, Projetos e outras em sequência
+
+Referência 2: Vercel (vercel.com)
+O que aproveitei: o tema preto e o
+visual direto, com poucos elementos e botões simples
+
+Referência 3: Linear (linear.app)
+O que aproveitei: o hero com um título grande e um subtítulo curto, e as
+legendas pequenas em estilo técnico
+
+Referência 4: Resend (resend.com)
+O que aproveitei:Seção onde serviu de inspiração: as tags dos cards de projeto e o logo
+"PH", que usam fonte monoespaçada (Space Mono)
+
+Referência 5 (animação): [animista.net]
+A minha página usa essa animação: os blocos começam transparentes
+e levemente deslocados para baixo e vão aparecendo conforme entram na
+tela (arquivo script.js)
