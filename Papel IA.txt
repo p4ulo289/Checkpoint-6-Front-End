@@ -50,3 +50,5 @@ Referência 5 (animação): [animista.net]
 A minha página usa essa animação: os blocos começam transparentes
 e levemente deslocados para baixo e vão aparecendo conforme entram na
 tela (arquivo script.js)
+
+Link do deploy no vercel: portfolio-p4ulo289.vercel.app
